@@ -15,7 +15,7 @@
 
 
 @else
-    <p>Nema unesenih posiljki</p>
+    <p>Nema unesenih posiljki.</p>
 @endif
 
 @endsection
